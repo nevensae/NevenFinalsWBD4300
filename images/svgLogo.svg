@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 72px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: "Impact";
+      }
+    </style>
+  </defs>
+  <g id="artboard-1">
+    <rect x="345" y="300" width="641" height="200" class="cls-1"/>
+    <rect x="213" y="372" width="641" height="200" class="cls-1"/>
+    <rect x="293" y="372" width="641" height="200" class="cls-1"/>
+    <text x="412" y="400" class="cls-2"><tspan class="cls-3">popVeLart.rs</tspan></text>
+  </g>
+</svg>

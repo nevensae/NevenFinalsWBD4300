@@ -152,7 +152,7 @@ table {
 
 #loginform input, textarea {
   display: block !important;
-  position: relative;
+  /* position: relative; */
   left: 200px;
   top: 30px;
   margin: 10px 0 0 10px;
@@ -214,3 +214,15 @@ li:last-of-type {
 }
 
 /*# sourceMappingURL=style.css.map */
+.aligner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: calc(100vh - 100px);
+}
+
+form {
+    align-items: center;
+    justify-content: center;
+}

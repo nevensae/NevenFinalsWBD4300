@@ -108,7 +108,11 @@
 }
 
 // CFORM
- 
+#loginform {
+    max-width:100%;
+    min-width: 360px;
+    
+}
 #loginform input, textarea{
     display: block!important;
     position: relative;
@@ -119,3 +123,18 @@
     width: 300px;
 }
 
+span {
+    color: #000000;
+}
+
+.aligner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+  form {
+      align-items: center;
+      justify-content: center;
+  }
